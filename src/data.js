@@ -86,8 +86,7 @@ Happy Anniversary - One More Year Of Togetherness My Beautiful Soul'! 🎂✨
 
 With all my love and warmest wishes,
 
-Forever Yours 💕
-Jayuuuu 🫶🏼🫂'
+Forever Yours 💕'
 
 
 // Background Music file path
