@@ -14,15 +14,15 @@ export const messages = [
     {
         id: 1,
         color: "from-pink-500 to-rose-500",
-        title: "With Love",
+        title: "With All My Love",
         message: "You bring so much joy and happiness to everyone around you! Your smile lights up every room.",
         showIcon: true,
     },
     {
         id: 2,
         color: "from-yellow-500 to-orange-500",
-        title: "Dream Big",
-        message: "May all your dreams come true and your year be filled with magic and wonder! ✨",
+        title: "We Dream Big",
+        message: "May all our all dreams come true and our year be filled with magic and wonder! ✨",
         showIcon: true,
     },
     {
@@ -71,21 +71,24 @@ export const letterScreenHeading = "A Special Letter"
 
 // Optional subheading for the letter screen
 // If you don't want any subheading, just leave it blank like this: ""
-export const letterScreenSubHeading = "Just for you, on your special day 💌"
+export const letterScreenSubHeading = "Just for you, on our special day 💌"
 
 // Actual letter content to display on the screen
 export const letterText = `Dikkuuu,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
+On this very special day, I want you to know how incredibly grateful I am to have you in my life. Our Anniversary isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to me in this world.
 
 You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
 
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
+Thank you for being the with me.. My wonderful, amazing, absolutely fantastic Wifeyyyy. My world is so much brighter because you're in it.
 
-Happy Birthday, beautiful soul! 🎂✨
+Happy Anniversary - One More Year Of Togetherness My Beautiful Soul'! 🎂✨
 
 With all my love and warmest wishes,
-Forever Yours 💕`
+
+Forever Yours 💕
+Jayuuuu 🫶🏼🫂'
+
 
 // Background Music file path
 // Place your .mp3 file inside the "public/audio" folder and give the path like below.
