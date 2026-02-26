@@ -58,10 +58,10 @@ export const photos = [
     { id: 2, src: "/images/2.jpg" },
     { id: 3, src: "/images/3.jpg" },
     { id: 4, src: "/images/4.jpg" },
-    { id: 5, src: "/images/1.jpg" },
-    { id: 6, src: "/images/2.jpg" },
-    { id: 7, src: "/images/3.jpg" },
-    { id: 8, src: "/images/4.jpg" },
+    { id: 5, src: "/images/5.jpg" },
+    { id: 6, src: "/images/6.jpg" },
+    { id: 7, src: "/images/7.jpg" },
+    { id: 8, src: "/images/8.jpg" },
 ]
 
 
@@ -76,13 +76,13 @@ export const letterScreenSubHeading = "Just for you, on your special day 💌"
 // Actual letter content to display on the screen
 export const letterText = `My Dearest Madam Jii,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
+On this very special day, I want you to know how incredibly grateful I am to have you in my life. our anniversary isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
 
 You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
 
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
+Thank you for being with me all the time my  wonderful, amazing, absolutely fantastic person... that you are. The world is so much brighter because you're in it.
 
-Happy Birthday, beautiful soul! 🎂✨
+Happy Anniversary , Celebration Of Togetherness! 🎂✨
 
 With all my love and warmest wishes,
 Forever Yours 💕`
