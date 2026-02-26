@@ -84,8 +84,9 @@ Thank you for being with me all the time my  wonderful, amazing, absolutely fant
 
 Happy Anniversary , Celebration Of Togetherness! 🎂✨
 
-With all my love and warmest wishes,
-Forever Yours 💕`
+With all my love and warmest wishes Bby,
+Forever Yours 💕
+Jayuuuu 🫶🏼❤️‍🩹`
 
 // Background Music file path
 // Place your .mp3 file inside the "public/audio" folder and give the path like below.
