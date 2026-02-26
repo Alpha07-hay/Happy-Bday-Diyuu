@@ -101,7 +101,7 @@ export default function Celebration({ onNext, onMusicStart }) {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.8 }}
                 >
-                    The countdown is over... Let's celebrate! 🎉
+                    The countdown is over... Let's celebrate our anniversary! 🎉
                 </motion.p>
             </motion.div>
 
