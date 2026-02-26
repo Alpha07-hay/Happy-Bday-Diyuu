@@ -1,8 +1,8 @@
 // Your Birthday Date (Format: yyyy-mm-ddTHH:MM:SS)
-export const BIRTHDAY_DATE = "2025-02-23T00:00:00";
+export const BIRTHDAY_DATE = "2025-07-18T00:00:00";
 
 // Add recipient's name here.
-export const NAME = "Diyuuu"
+export const NAME = "Madam Jii"
 
 
 // Special Messages Screen
@@ -14,15 +14,15 @@ export const messages = [
     {
         id: 1,
         color: "from-pink-500 to-rose-500",
-        title: "With All My Love",
+        title: "With Love",
         message: "You bring so much joy and happiness to everyone around you! Your smile lights up every room.",
         showIcon: true,
     },
     {
         id: 2,
         color: "from-yellow-500 to-orange-500",
-        title: "We Dream Big",
-        message: "May all our all dreams come true and our year be filled with magic and wonder! ✨",
+        title: "Dream Big",
+        message: "May all your dreams come true and your year be filled with magic and wonder! ✨",
         showIcon: true,
     },
     {
@@ -47,7 +47,7 @@ export const messages = [
 export const photoScreenHeading = "Moments With You"
 
 // Subheading text for the Photo Gallery section (optional - you can remove or leave it blank if not needed)
-export const photoScreenSubHeading = "Beautiful moments with You My Love"
+export const photoScreenSubHeading = "Beautiful moments with Madam Jii"
 
 // List of photo objects to display in the gallery
 // - Add more photos by copying the same line and changing the id and src
@@ -58,10 +58,6 @@ export const photos = [
     { id: 2, src: "/images/2.jpg" },
     { id: 3, src: "/images/3.jpg" },
     { id: 4, src: "/images/4.jpg" },
-    { id: 5, src: "/images/5.jpg" },
-    { id: 6, src: "/images/6.jpg" },
-    { id: 7, src: "/images/7.jpg" },
-    { id: 8, src: "/images/8.jpg" },
 ]
 
 
@@ -71,23 +67,21 @@ export const letterScreenHeading = "A Special Letter"
 
 // Optional subheading for the letter screen
 // If you don't want any subheading, just leave it blank like this: ""
-export const letterScreenSubHeading = "Just for you, on our special day 💌"
+export const letterScreenSubHeading = "Just for you, on your special day 💌"
 
 // Actual letter content to display on the screen
-export const letterText = `Dikkuuu,
+export const letterText = `My Dearest Madam Jii,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Our Anniversary isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to me in this world.
+On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
 
 You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
 
-Thank you for being the with me.. My wonderful, amazing, absolutely fantastic Wifeyyyy. My world is so much brighter because you're in it.
+Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
 
-Happy Anniversary - One More Year Of Togetherness My Beautiful Soul'! 🎂✨
+Happy Birthday, beautiful soul! 🎂✨
 
 With all my love and warmest wishes,
-
-Forever Yours 💕'
-
+Forever Yours 💕`
 
 // Background Music file path
 // Place your .mp3 file inside the "public/audio" folder and give the path like below.
