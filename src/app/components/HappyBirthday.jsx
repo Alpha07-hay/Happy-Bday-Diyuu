@@ -291,7 +291,7 @@ export default function HappyBirthday({ onNext }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 1 }}
                 >
-                    Happy Birthday!
+                    Happy Anniversary...!
                 </motion.h1>
 
                 <motion.h2
@@ -312,7 +312,7 @@ export default function HappyBirthday({ onNext }) {
                         textShadow: "0 0 10px rgba(0,0,0,0.8)",
                     }}
                 >
-                    🎉 It's your special day! 🎉
+                    🎉 It's our special day! 🎉
                 </motion.div>
             </motion.div>
 
