@@ -1,8 +1,8 @@
 // Your Birthday Date (Format: yyyy-mm-ddTHH:MM:SS)
-export const BIRTHDAY_DATE = "2025-07-18T00:00:00";
+export const BIRTHDAY_DATE = "2025-02-23T00:00:00";
 
 // Add recipient's name here.
-export const NAME = "Madam Jii"
+export const NAME = "Diyuuu"
 
 
 // Special Messages Screen
@@ -47,7 +47,7 @@ export const messages = [
 export const photoScreenHeading = "Moments With You"
 
 // Subheading text for the Photo Gallery section (optional - you can remove or leave it blank if not needed)
-export const photoScreenSubHeading = "Beautiful moments with Madam Jii"
+export const photoScreenSubHeading = "Beautiful moments with You My Love"
 
 // List of photo objects to display in the gallery
 // - Add more photos by copying the same line and changing the id and src
@@ -58,6 +58,10 @@ export const photos = [
     { id: 2, src: "/images/2.jpg" },
     { id: 3, src: "/images/3.jpg" },
     { id: 4, src: "/images/4.jpg" },
+    { id: 5, src: "/images/5.jpg" },
+    { id: 6, src: "/images/6.jpg" },
+    { id: 7, src: "/images/7.jpg" },
+    { id: 8, src: "/images/8.jpg" },
 ]
 
 
@@ -70,7 +74,7 @@ export const letterScreenHeading = "A Special Letter"
 export const letterScreenSubHeading = "Just for you, on your special day 💌"
 
 // Actual letter content to display on the screen
-export const letterText = `My Dearest Madam Jii,
+export const letterText = `Dikkuuu,
 
 On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
 
